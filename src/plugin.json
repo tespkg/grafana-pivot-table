@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "Pivot Table Panel",
+  "id": "grafana-pivot-panel",
+  "info": {
+    "keywords": ["panel", "table", "data"],
+    "description": "A Pivot Table Panel plugin for displaying data from any Grafana data source",
+    "author": {
+      "name": "Tespkg"
+    },
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=10.4.0",
+    "plugins": []
+  }
+}

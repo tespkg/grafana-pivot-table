@@ -1,0 +1,126 @@
+[
+  {
+    "columns": [
+      {
+        "text": "Month",
+        "type": "string"
+      },
+      {
+        "text": "Region",
+        "type": "string"
+      },
+      {
+        "text": "Sales",
+        "type": "number"
+      },
+      {
+        "text": "Revenue",
+        "type": "number"
+      },
+      {
+        "text": "Status",
+        "type": "string"
+      }
+    ],
+    "rows": [
+      ["01-Sep-2023", "North", 150, 5000, "Good"],
+      ["01-Oct-2023", "South", 250, 8500, "Excellent"],
+      ["01-Nov-2023", "East", 80, 2000, "Poor"],
+      ["01-Dec-2023", "West", 180, 6000, "Good"],
+      ["01-Jan-2024", "North", 90, 2500, "Poor"],
+      ["01-Feb-2024", "South", 220, 7500, "Excellent"],
+      ["01-Mar-2024", "East", 160, 5500, "Good"],
+      ["01-Apr-2024", "West", 70, 1800, "Poor"]
+    ],
+    "meta": {
+      "custom": {
+        "cellStyles": {
+          "1_2": {
+            "backgroundColor": "#4caf50",
+            "textColor": "#ffffff"
+          },
+          "1_3": {
+            "backgroundColor": "#4caf50",
+            "textColor": "#ffffff"
+          },
+          "1_4": {
+            "backgroundColor": "#4caf50",
+            "textColor": "#ffffff"
+          },
+          "2_2": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "2_3": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "2_4": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "4_2": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "4_3": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "4_4": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "5_2": {
+            "backgroundColor": "#4caf50",
+            "textColor": "#ffffff"
+          },
+          "5_3": {
+            "backgroundColor": "#4caf50",
+            "textColor": "#ffffff"
+          },
+          "5_4": {
+            "backgroundColor": "#4caf50",
+            "textColor": "#ffffff"
+          },
+          "7_2": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "7_3": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "7_4": {
+            "backgroundColor": "#f44336",
+            "textColor": "#ffffff"
+          },
+          "0_2": {
+            "backgroundColor": "#2196f3",
+            "textColor": "#ffffff"
+          },
+          "0_3": {
+            "backgroundColor": "#2196f3",
+            "textColor": "#ffffff"
+          },
+          "3_2": {
+            "backgroundColor": "#2196f3",
+            "textColor": "#ffffff"
+          },
+          "3_3": {
+            "backgroundColor": "#2196f3",
+            "textColor": "#ffffff"
+          },
+          "6_2": {
+            "backgroundColor": "#2196f3",
+            "textColor": "#ffffff"
+          },
+          "6_3": {
+            "backgroundColor": "#2196f3",
+            "textColor": "#ffffff"
+          }
+        }
+      }
+    }
+  }
+]
