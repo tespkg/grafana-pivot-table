@@ -51,7 +51,7 @@
         }
       ],
       "title": "Sample Panel Title",
-      "type": "grafana-pivot-panel"
+      "type": "pivot-table-panel"
     },
     {
       "datasource": {
@@ -82,7 +82,7 @@
         }
       ],
       "title": "Sample Panel Title",
-      "type": "grafana-pivot-panel"
+      "type": "pivot-table-panel"
     }
   ],
   "refresh": "",

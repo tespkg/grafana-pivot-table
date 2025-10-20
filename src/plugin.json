@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Pivot Table Panel",
-  "id": "grafana-pivot-panel",
+  "id": "pivot-table-panel",
   "info": {
     "keywords": ["panel", "table", "data"],
     "description": "A Pivot Table Panel plugin for displaying data from any Grafana data source",

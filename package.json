@@ -1,5 +1,5 @@
 {
-  "name": "grafana-pivot-panel",
+  "name": "pivot-table-panel",
   "version": "0.0.1",
   "scripts": {
     "build": "webpack -c ./.config/webpack/webpack.config.ts --env production",

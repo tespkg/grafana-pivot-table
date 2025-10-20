@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Grafana panel plugin called "Pivot Table Panel" (plugin ID: `grafana-pivot-panel`) that displays data from any Grafana data source in a simple, customizable table format. The plugin automatically renders all fields from the data source with options for headers, font size, and pagination.
+This is a Grafana panel plugin called "Pivot Table Panel" (plugin ID: `pivot-table-panel`) that displays data from any Grafana data source in a simple, customizable table format. The plugin automatically renders all fields from the data source with options for headers, font size, and pagination.
 
 ## Development Commands
 
@@ -88,7 +88,7 @@ The plugin uses Grafana's `.config/` directory for build tooling (webpack, jest,
 
 ## Plugin Metadata
 
-- Plugin ID: `grafana-pivot-panel`
+- Plugin ID: `pivot-table-panel`
 - Plugin Type: panel
 - Plugin Name: Pivot Table Panel
 - Description: A Pivot Table Panel plugin for displaying data from any Grafana data source
